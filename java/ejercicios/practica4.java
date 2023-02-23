@@ -1,3 +1,4 @@
+package ejercicios;
 // •Definir cuatro variables, llamadas a, b, c y d. Realizar la suma (a+b), resta (d-c), multiplicación (a*b*c*d) y división (a/b), y mostrar los resultados por pantalla, de forma que se vea qué operación es.
 public class practica4 {
     public static void main(String[] args){
