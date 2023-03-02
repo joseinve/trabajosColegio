@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class practica1 {
     public static void main(String[] args) {
         try (Scanner hora = new Scanner(System.in)) {
+            
             System.out.println("Ingrese una cantidad de horasq");
             int horasTotales = hora.nextInt();
             System.out.println("Las cantidad de horas ingrasas es: ");
