@@ -1,6 +1,6 @@
 package strings;
 
-public class ejercicios3 {
+public class ejercicio3 {
 	public static String reverse(String str) {
         return new StringBuilder(str).reverse().toString();
     }
