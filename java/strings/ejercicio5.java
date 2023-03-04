@@ -10,7 +10,7 @@ public class ejercicio5 {
 		String cadena_2 = cadena1.nextLine();
 		String[] cadena3 = cadena_2.split(" ");
 		for (String cadena : cadena3) {
-			cadena_1 = cadena_1.replaceAll(cadena, cadena.toUpperCase());
+			cadena_1 = cadena_1.replaceAll(cadena, cadena.toUpperCase()); 
 		}
 		System.out.println(cadena_1);
 		cadena1.close();
