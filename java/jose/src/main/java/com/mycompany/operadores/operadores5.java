@@ -1,5 +1,5 @@
 package com.mycompany.operadores;
 
-public class ejercicio1 {
+public class operadores5 {
     
 }

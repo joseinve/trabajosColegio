@@ -2,18 +2,16 @@ package com.mycompany.operadores;
 import java.util.Scanner;
 
 public class operadores2 {
-    public static void main(String[] args) {
-System.out.println("Introduzca el valor de a: " );
-Scanner a = new Scanner(System.in);
-int aa = a.nextInt();
-System.out.println("Introduzca el valor de b: " );
-Scanner b = new Scanner(System.in);
-int bb = b.nextInt();
-double aentreb=aa/bb;
-double bentrea=bb/aa;
-System.out.println("El resultado de la division entre "+aa+" y "+bb+" es: "+aentreb);
-System.out.println("El resultado de la division entre "+bb+" y "+aa+" es: "+bentrea);
-a.close();
-b.close();
+      public static void main(String[] args) {
+        Scanner numero = new Scanner(System.in);
+        System.out.print("Ingrese el primer valor:");
+        double a=numero.nextInt();
+        System.out.print("Ingrese el segundo valor:");
+        double b=numero.nextInt();
+        double AentreB = a/b;
+        double BentreA = b/a;
+        System.out.println("El cociente entre "+a+" y "+b+" es "+AentreB);
+        System.out.println("El cociente entre "+b+" y "+a+" es "+BentreA);
+        numero.close();
       }
     }
