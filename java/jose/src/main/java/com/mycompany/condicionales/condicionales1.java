@@ -1,7 +1,7 @@
 package com.mycompany.condicionales;
 
 import java.util.Scanner;
-
+// Programa que pide un número de mes y muestra el nombre correspondiente.
 public class condicionales1 {
     public static void main(String[] args) {
         Scanner numero = new Scanner(System.in);
