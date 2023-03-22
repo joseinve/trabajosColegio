@@ -1,4 +1,5 @@
 package com.mycompany.condicionales;
+
 import java.util.*;
 
 /*Programa que simula el funcionamiento de una calculadora que puede
@@ -38,7 +39,7 @@ public class condicionales3 {
                 System.out.println("La divición es: " + (n1 / n2));
                 break;
             default:
-            System.out.println("operador no valido");
+                System.out.println("operador no valido");
                 break;
         }
         operadores.close();
