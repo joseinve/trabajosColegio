@@ -1,14 +1,15 @@
 package com.mycompany.jose;
 
+import java.util.ArrayList;
+
 public class Jose {
     public static void main(String[] args) {
-        int[] hola;
-        hola = new int[10];
+        ArrayList<Integer> hola = new ArrayList<>();
         for (int i = 0; i < 10; i++) {
-            hola[i] = i;
+            hola.add(i);
         }
-        for (int j = 0; j < hola.length; j++) {
-            System.out.println(hola[j]);
+        for (int j = 0; j < hola.size(); j++) {
+            System.out.println(hola.get(j));
         }
     }
 }
