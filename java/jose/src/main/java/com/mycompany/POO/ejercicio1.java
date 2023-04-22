@@ -11,6 +11,8 @@ public class ejercicio1 {
     public static void main(String[] args) {
         teatros teatro = new teatros();
         funciones funcion = new funciones();
+        teatro.nombre();
+        funcion.precio();
     }
 }
 
@@ -42,7 +44,7 @@ class funciones {
     }
 
     public void setprecio(int precio) {
-        precio = precio;
+        precio = precio + 3;
     }
 
     public int precio() {
