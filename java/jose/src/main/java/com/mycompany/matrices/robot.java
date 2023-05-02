@@ -96,26 +96,26 @@ public class robot {
                     case 'R':
                         switch (o) {
                             case 0:
-                                o = 90 * num;
+                                o += 90 * num;
                                 break;
                             case 1:
-                                o = 90 * num;
+                                o += 90 * num;
                                 break;
                             case 2:
-                                o = 90 * num;
+                                o += 90 * num;
                                 break;
                             case 3:
-                                o = 90 * num;
+                                o += 90 * num;
                                 break;
                             case 4:
-                                o = 90 * num;
+                                o += 90 * num;
                                 break;
                             case 5:
-                                o = 90 * num;
+                                o += 90 * num;
 
                                 break;
                             case 6:
-                                o = 90 * num;
+                                o += 90 * num;
 
                                 break;
                             case 7:
