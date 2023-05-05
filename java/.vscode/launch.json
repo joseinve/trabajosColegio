@@ -1,0 +1,294 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "examenRobot",
+      "request": "launch",
+      "mainClass": "com.mycompany.matrices.examenRobot",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "ejercicio1",
+      "request": "launch",
+      "mainClass": "com.mycompany.POO.ejercicio1",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "condicionales1",
+      "request": "launch",
+      "mainClass": "com.mycompany.condicionales.condicionales1",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "condicionales2",
+      "request": "launch",
+      "mainClass": "com.mycompany.condicionales.condicionales2",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "condicionales3",
+      "request": "launch",
+      "mainClass": "com.mycompany.condicionales.condicionales3",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "refran",
+      "request": "launch",
+      "mainClass": "com.mycompany.ejercicios.refran",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "virus",
+      "request": "launch",
+      "mainClass": "com.mycompany.ejercicios.virus",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "explorandoMarte",
+      "request": "launch",
+      "mainClass": "com.mycompany.jany.explorandoMarte",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "java",
+      "request": "launch",
+      "mainClass": "com.mycompany.jany.java",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "operadores",
+      "request": "launch",
+      "mainClass": "com.mycompany.jany.operadores",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "variables1",
+      "request": "launch",
+      "mainClass": "com.mycompany.jany.variables1",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "variables2",
+      "request": "launch",
+      "mainClass": "com.mycompany.jany.variables2",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "variables3",
+      "request": "launch",
+      "mainClass": "com.mycompany.jany.variables3",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "Jose",
+      "request": "launch",
+      "mainClass": "com.mycompany.jose.Jose",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "NewJFrame",
+      "request": "launch",
+      "mainClass": "com.mycompany.jose.NewJFrame",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "prueba",
+      "request": "launch",
+      "mainClass": "com.mycompany.jose.prueba",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "examen1",
+      "request": "launch",
+      "mainClass": "com.mycompany.matrices.examen1",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "robot",
+      "request": "launch",
+      "mainClass": "com.mycompany.matrices.robot",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "ejercicio1(1)",
+      "request": "launch",
+      "mainClass": "com.mycompany.metodos.ejercicio1",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "ejercicio2",
+      "request": "launch",
+      "mainClass": "com.mycompany.metodos.ejercicio2",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "ejercicio3",
+      "request": "launch",
+      "mainClass": "com.mycompany.metodos.ejercicio3",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "metodos",
+      "request": "launch",
+      "mainClass": "com.mycompany.metodos.metodos",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "metodos1",
+      "request": "launch",
+      "mainClass": "com.mycompany.metodos.metodos1",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "operadores1",
+      "request": "launch",
+      "mainClass": "com.mycompany.operadores.operadores1",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "operadores2",
+      "request": "launch",
+      "mainClass": "com.mycompany.operadores.operadores2",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "operadores3",
+      "request": "launch",
+      "mainClass": "com.mycompany.operadores.operadores3",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "operadores4",
+      "request": "launch",
+      "mainClass": "com.mycompany.operadores.operadores4",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "CalculadoraPolacaInversaApp",
+      "request": "launch",
+      "mainClass": "com.mycompany.practicas.CalculadoraPolacaInversaApp",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "practica1",
+      "request": "launch",
+      "mainClass": "com.mycompany.practicas.practica1",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "practica2",
+      "request": "launch",
+      "mainClass": "com.mycompany.practicas.practica2",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "practica3",
+      "request": "launch",
+      "mainClass": "com.mycompany.practicas.practica3",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "ejercicio1(2)",
+      "request": "launch",
+      "mainClass": "com.mycompany.strings.ejercicio1",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "ejercicio2(1)",
+      "request": "launch",
+      "mainClass": "com.mycompany.strings.ejercicio2",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "ejercicio3(1)",
+      "request": "launch",
+      "mainClass": "com.mycompany.strings.ejercicio3",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "ejercicio4",
+      "request": "launch",
+      "mainClass": "com.mycompany.strings.ejercicio4",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "ejercicio5",
+      "request": "launch",
+      "mainClass": "com.mycompany.strings.ejercicio5",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "strings",
+      "request": "launch",
+      "mainClass": "com.mycompany.strings.strings",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "NewJFrame(1)",
+      "request": "launch",
+      "mainClass": "com.mycompany.vectores.NewJFrame",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "aerolinea",
+      "request": "launch",
+      "mainClass": "com.mycompany.vectores.aerolinea",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "datos",
+      "request": "launch",
+      "mainClass": "com.mycompany.vectores.datos",
+      "projectName": "jose"
+    }
+  ]
+}
