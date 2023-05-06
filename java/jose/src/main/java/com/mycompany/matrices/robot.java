@@ -7,7 +7,14 @@ public class robot {
     static int x = 0, y = 0;
 
     public static void Robot(int n1, int m1, int y, int x, ArrayList comandos) {
+switch (	) {
+    case value:
+        
+        break;
 
+    default:
+        break;
+}
     }
 
     public static void main(String[] args) {
