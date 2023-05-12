@@ -1,6 +1,5 @@
 package com.mycompany.matrices;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class robot {
