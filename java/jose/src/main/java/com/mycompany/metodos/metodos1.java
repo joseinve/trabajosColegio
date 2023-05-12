@@ -4,11 +4,11 @@ public class metodos1 {
     static int d;
 
     public static void main(String[] args) {
-        System.out.println(suma(1, 3));
+        String fecha = "2002";
+        if (fecha.substring(2, 3) == "0") {
+
+            System.out.println(fecha.substring(2, 3));
+        }
     }
 
-    public static int suma(int a, int b) {
-        int c = a + b;
-        return c;
-    }
 }
