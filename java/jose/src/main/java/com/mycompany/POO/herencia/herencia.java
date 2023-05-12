@@ -3,11 +3,11 @@ package com.mycompany.POO.herencia;
 public class herencia {
     public class Deporte {
         // Contiene el nombre del deporte
-        private String nombre;
+        String nombre;
         // Contiene el número de equipos que participan en el deporte
-        private int numeroDeEquipos;
+        int numeroDeEquipos;
         // Contiene el número de jugadores de cada equipo
-        private int[] numeroDeJugadores;
+        int[] numeroDeJugadores;
 
         public Deporte(String nombre, int numeroDeEquipos, int[] numeroDeJugadores) {
             this.nombre = nombre;
@@ -21,7 +21,6 @@ public class herencia {
 
         public futbol(String nombre, int numeroDeEquipos, int[] numeroDeJugadores) {
             super(nombre, numeroDeEquipos, numeroDeJugadores);
-            // TODO Auto-generated constructor stub
         }
 
     }
