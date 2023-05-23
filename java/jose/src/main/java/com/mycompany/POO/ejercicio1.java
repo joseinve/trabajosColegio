@@ -21,11 +21,11 @@ class teatros {
     int precio;
 
     public void setNombre(String Nombre) {
-        nombre = Nombre;
+        this.nombre = Nombre;
     }
 
     public String nombre() {
-        return nombre;
+        return this.nombre;
     }
 }
 
@@ -35,11 +35,11 @@ class funciones {
     int precio;
 
     public void setfuncion(String Nombre) {
-        teatro = Nombre;
+        this.teatro = Nombre;
     }
 
     public String funcion() {
-        return teatro;
+        return this.teatro;
     }
 
     public void setprecio(int precio) {
@@ -47,6 +47,6 @@ class funciones {
     }
 
     public int precio() {
-        return precio;
+        return this.precio;
     }
 }

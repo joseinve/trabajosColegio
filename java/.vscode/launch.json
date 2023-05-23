@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "poo",
+      "request": "launch",
+      "mainClass": "com.mycompany.POO.poo",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
       "name": "censo",
       "request": "launch",
       "mainClass": "com.mycompany.metodos.censo",
