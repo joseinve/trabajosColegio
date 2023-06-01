@@ -8,6 +8,7 @@ public class ejercicio1 {
     // teniendo en cuenta que se pueda cambiar el nombre del teatro y el nombre y
     // precio de la función. Implemente dichas clases.
     public static void main(String[] args) {
+        teatros teatro1 = new teatros();
         teatros teatro = new teatros();
         funciones funcion = new funciones();
         teatro.nombre();
