@@ -1,119 +1,126 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "CalculadoraPolacaInversaApp",
-            "request": "launch",
-            "mainClass": "CalculadoraPolacaInversaApp",
-            "projectName": "trabajosColegio_5a4a9b36"
-        },
-        {
-            "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "galonesAlitros",
-            "request": "launch",
-            "mainClass": "ejercicios.galonesAlitros",
-            "projectName": "trabajosColegio_5a4a9b36"
-        },
-        {
-            "type": "java",
-            "name": "practica1",
-            "request": "launch",
-            "mainClass": "ejercicios.practica1",
-            "projectName": "trabajosColegio_5a4a9b36"
-        },
-        {
-            "type": "java",
-            "name": "practica2",
-            "request": "launch",
-            "mainClass": "ejercicios.practica2",
-            "projectName": "trabajosColegio_5a4a9b36"
-        },
-        {
-            "type": "java",
-            "name": "practica3",
-            "request": "launch",
-            "mainClass": "ejercicios.practica3",
-            "projectName": "trabajosColegio_5a4a9b36"
-        },
-        {
-            "type": "java",
-            "name": "practica4",
-            "request": "launch",
-            "mainClass": "ejercicios.practica4",
-            "projectName": "trabajosColegio_5a4a9b36"
-        },
-        {
-            "type": "java",
-            "name": "practica1(1)",
-            "request": "launch",
-            "mainClass": "practicas.practica1",
-            "projectName": "trabajosColegio_5a4a9b36"
-        },
-        {
-            "type": "java",
-            "name": "practica2(1)",
-            "request": "launch",
-            "mainClass": "practicas.practica2",
-            "projectName": "trabajosColegio_5a4a9b36"
-        },
-        {
-            "type": "java",
-            "name": "practica3(1)",
-            "request": "launch",
-            "mainClass": "practicas.practica3",
-            "projectName": "trabajosColegio_5a4a9b36"
-        },
-        {
-            "type": "java",
-            "name": "ejercicio1",
-            "request": "launch",
-            "mainClass": "strings.ejercicio1",
-            "projectName": "trabajosColegio_5a4a9b36"
-        },
-        {
-            "type": "java",
-            "name": "ejercicio2",
-            "request": "launch",
-            "mainClass": "strings.ejercicio2",
-            "projectName": "trabajosColegio_5a4a9b36"
-        },
-        {
-            "type": "java",
-            "name": "ejercicio3",
-            "request": "launch",
-            "mainClass": "strings.ejercicio3",
-            "projectName": "trabajosColegio_5a4a9b36"
-        },
-        {
-            "type": "java",
-            "name": "ejercicio4",
-            "request": "launch",
-            "mainClass": "strings.ejercicio4",
-            "projectName": "trabajosColegio_5a4a9b36"
-        },
-        {
-            "type": "java",
-            "name": "ejercicio5",
-            "request": "launch",
-            "mainClass": "strings.ejercicio5",
-            "projectName": "trabajosColegio_5a4a9b36"
-        },
-        {
-            "type": "java",
-            "name": "strings",
-            "request": "launch",
-            "mainClass": "strings.strings",
-            "projectName": "trabajosColegio_5a4a9b36"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ejercicio1",
+      "request": "launch",
+      "mainClass": "com.mycompany.POO.ejercicio1",
+      "projectName": "jose"
+    },
+    {
+      "type": "java",
+      "name": "CalculadoraPolacaInversaApp",
+      "request": "launch",
+      "mainClass": "CalculadoraPolacaInversaApp",
+      "projectName": "trabajosColegio_5a4a9b36"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "galonesAlitros",
+      "request": "launch",
+      "mainClass": "ejercicios.galonesAlitros",
+      "projectName": "trabajosColegio_5a4a9b36"
+    },
+    {
+      "type": "java",
+      "name": "practica1",
+      "request": "launch",
+      "mainClass": "ejercicios.practica1",
+      "projectName": "trabajosColegio_5a4a9b36"
+    },
+    {
+      "type": "java",
+      "name": "practica2",
+      "request": "launch",
+      "mainClass": "ejercicios.practica2",
+      "projectName": "trabajosColegio_5a4a9b36"
+    },
+    {
+      "type": "java",
+      "name": "practica3",
+      "request": "launch",
+      "mainClass": "ejercicios.practica3",
+      "projectName": "trabajosColegio_5a4a9b36"
+    },
+    {
+      "type": "java",
+      "name": "practica4",
+      "request": "launch",
+      "mainClass": "ejercicios.practica4",
+      "projectName": "trabajosColegio_5a4a9b36"
+    },
+    {
+      "type": "java",
+      "name": "practica1(1)",
+      "request": "launch",
+      "mainClass": "practicas.practica1",
+      "projectName": "trabajosColegio_5a4a9b36"
+    },
+    {
+      "type": "java",
+      "name": "practica2(1)",
+      "request": "launch",
+      "mainClass": "practicas.practica2",
+      "projectName": "trabajosColegio_5a4a9b36"
+    },
+    {
+      "type": "java",
+      "name": "practica3(1)",
+      "request": "launch",
+      "mainClass": "practicas.practica3",
+      "projectName": "trabajosColegio_5a4a9b36"
+    },
+    {
+      "type": "java",
+      "name": "ejercicio1",
+      "request": "launch",
+      "mainClass": "strings.ejercicio1",
+      "projectName": "trabajosColegio_5a4a9b36"
+    },
+    {
+      "type": "java",
+      "name": "ejercicio2",
+      "request": "launch",
+      "mainClass": "strings.ejercicio2",
+      "projectName": "trabajosColegio_5a4a9b36"
+    },
+    {
+      "type": "java",
+      "name": "ejercicio3",
+      "request": "launch",
+      "mainClass": "strings.ejercicio3",
+      "projectName": "trabajosColegio_5a4a9b36"
+    },
+    {
+      "type": "java",
+      "name": "ejercicio4",
+      "request": "launch",
+      "mainClass": "strings.ejercicio4",
+      "projectName": "trabajosColegio_5a4a9b36"
+    },
+    {
+      "type": "java",
+      "name": "ejercicio5",
+      "request": "launch",
+      "mainClass": "strings.ejercicio5",
+      "projectName": "trabajosColegio_5a4a9b36"
+    },
+    {
+      "type": "java",
+      "name": "strings",
+      "request": "launch",
+      "mainClass": "strings.strings",
+      "projectName": "trabajosColegio_5a4a9b36"
+    }
+  ]
 }
